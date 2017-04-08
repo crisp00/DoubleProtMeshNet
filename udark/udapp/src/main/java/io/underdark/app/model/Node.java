@@ -57,11 +57,6 @@ public class Node implements TransportListener
 
 	private void configureLogging()
 	{
-		NSLoggerAdapter adapter = (NSLoggerAdapter)
-				StaticLoggerBinder.getSingleton().getLoggerFactory().getLogger(Node.class.getName());
-		adapter.logger = new NSLogger(activity.getApplicationContext());
-		adapter.logger.connect("192.168.5.203", 50000);
-
 		Underdark.configureLogging(true);
 	}
 

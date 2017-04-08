@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoubleProtMeshNetGuest.iml" filepath="$PROJECT_DIR$/DoubleProtMeshNetGuest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meshnet/meshnet.iml" filepath="$PROJECT_DIR$/meshnet/meshnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/underdark/underdark.iml" filepath="$PROJECT_DIR$/underdark/underdark.iml" />
+    </modules>
+  </component>
+</project>
